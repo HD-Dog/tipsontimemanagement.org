@@ -1,10 +1,44 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>tipsontimemanagement.org</title>
-    </head>
-    <body>
 
-    </body>
+body{
+background-image: url("https://thumbs.gfycat.com/ScentedPastelAlligatorsnappingturtle-size_restricted.gif");
 
-</html>
+}
+
+p {
+color: rgb(72, 253, 0);
+}
+h1{
+    text-align:center;
+}
+body {background-color: coral;}
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+
+  </tr>
+  <tr>
+    <td>Henry </td>
+    <td>Wade</td>
+    <td>henrywadebusiness@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Noria </td>
+    <td>Peeples</td>
+    <td>noriapeeples@gmail.com</td>
+  </tr>
+    </tr>
+  <tr>
+    <td>zJada</td>
+    <td>Gaddis</td>
+    <td>gaddis.jada.rhs@gmail.com</td>
+  </tr>
+    </tr>
+  <tr>
+    <td>Anthony</td>
+    <td>Coopwood</td>
+    <td>anthonycoopwood1@gmail.com</td>
+  </tr>
+
+</table>
